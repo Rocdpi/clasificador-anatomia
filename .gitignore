@@ -1,0 +1,12 @@
+# Entorno virtual y caché de uv
+.venv/
+__pycache__/
+*.pyc
+
+# Caché de PyTorch y modelos descargados
+.cache/
+*.pth
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
