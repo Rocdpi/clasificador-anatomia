@@ -18,5 +18,5 @@ El proyecto implementa **Transfer Learning** utilizando una red neuronal convolu
 
 1. Clonar el repositorio y posicionarse en la carpeta:
    ```powershell
-   git clone [https://github.com/TU_USUARIO/clasificador-anatomia.git](https://github.com/TU_USUARIO/clasificador-anatomia.git)
+   git clone https://github.com/Rocdpi/clasificador-anatomia.git
    cd clasificador-anatomia
